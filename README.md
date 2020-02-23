@@ -18,6 +18,7 @@
 > - Indexing
 > - Slicing
 > - len( )
+> - split( )
 
 - 3. Type Conversion
 > - Numbers -> String
