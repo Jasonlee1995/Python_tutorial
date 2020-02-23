@@ -25,3 +25,15 @@
 > - String -> Numbers
 
 - 4. 프로그래머스
+
+### Day 2 : Condition
+- 1. Boolean
+> - True
+> - False
+
+- 2. if elif else
+> - if
+> - else
+> - elif
+
+- 3. 프로그래머스
