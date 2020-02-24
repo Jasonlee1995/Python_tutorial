@@ -37,3 +37,25 @@
 > - elif
 
 - 3. 프로그래머스
+
+### Day 3 : Iteration
+- 1. List
+> - Define
+> - .append( )
+> - Concatenate : +, *
+> - Indexing
+> - Slicing
+> - len( )
+
+- 2. Type Conversion
+> - String -> List
+
+- 3. Array
+
+- 4. Iteration (while, for)
+> - while
+> - for
+> - range( )
+> - break
+
+- 5. 프로그래머스
