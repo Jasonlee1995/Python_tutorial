@@ -1,9 +1,9 @@
 # Python Tutorial
 
 ### Day 0 : Introduction
-- Part 1 ) What can we do with Python?
-- Part 2 ) Top-Down v.s Bottom-Up
-- Part 3 ) Environment Setup
+- 1. What can we do with Python?
+- 2. Top-Down v.s Bottom-Up
+- 3. Environment Setup
 
 ### Day 1 : Numbers, String
 - 1. Numbers
