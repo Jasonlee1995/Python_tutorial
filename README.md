@@ -9,22 +9,28 @@
 - 1. Numbers
 - 2. String
 - 3. Type Conversion
-- 4. 프로그래머스
 
 ### Day 2 : Condition
 - 1. Boolean
 - 2. if elif else
-- 3. 프로그래머스
 
 ### Day 3 : Iteration
 - 1. List
 - 2. Type Conversion
 - 3. Array
 - 4. Iteration (while, for)
-- 5. 프로그래머스
 
 ### Day 4 : Data Structure and Recursion
 - 1. Tuple
 - 2. Sets
 - 3. Dictionary
 - 4. Recursion
+
+### Day 5 : Sorting
+- 1. Algorithm
+- 2. Sorting
+
+### Day 5 : Sorting Answer
+- 1. Selection Sort
+- 2. Insertion Sort
+- 3. Bubble Sort
