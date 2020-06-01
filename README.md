@@ -37,3 +37,7 @@
 - 4. Merge Sort
 - 5. Quick Sort
 - 6. Heap Sort
+
+### Day 6. Graph
+- 1. Graph Basic
+- 2. BFS/DFS
