@@ -40,4 +40,5 @@
 
 ### Day 6. Graph
 - 1. Graph Basic
-- 2. BFS/DFS
+- 2. BFS/DFS on Undirected Acyclic Graph
+- 3. BFS/DFS on Undirected Cyclic Graph
